@@ -1,1 +1,1 @@
-//See on proov esimese tunni ajal
+console.log("Hello World!!!")
